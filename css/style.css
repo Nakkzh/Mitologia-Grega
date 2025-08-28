@@ -225,3 +225,7 @@ a:focus, button:focus {
 .skip-link:focus {
     top: 0;
 }
+
+img{
+    max-width: 25%;
+}
